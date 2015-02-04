@@ -1,0 +1,12 @@
+{
+    "name": "jrlawniczak/composer-dep-test",
+    "require": {
+        "kdyby/monolog": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "jacekelgda",
+            "email": "jacekelgda@gmail.com"
+        }
+    ]
+}
